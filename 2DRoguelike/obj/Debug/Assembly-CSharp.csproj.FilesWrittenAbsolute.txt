@@ -1,0 +1,13 @@
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/UnityEngine.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/UnityEditor.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Mono.Cecil.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Unity.DataContract.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/folkeg/Unity/SpaceShooter/2DRoguelike/Temp/bin/Debug/Mono.Cecil.Mdb.dll

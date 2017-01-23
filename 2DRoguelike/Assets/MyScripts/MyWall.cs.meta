@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b050b0a4c6ebb44e1be045f4b9df8ffd
+timeCreated: 1468444480
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerChop1: {instanceID: 0}
+  - playerChop2: {instanceID: 0}
+  - dmgSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
